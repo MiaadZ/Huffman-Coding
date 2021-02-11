@@ -2,6 +2,10 @@
 
 Huffman Coding is an algorithm for encryption of text and decryption based on Huffman Tree.
 
+## Requirements
+
+* Numpy
+
 ## Discription
 
 The first input is the text and the algorithm will create a tree and encrypt text based on it.
