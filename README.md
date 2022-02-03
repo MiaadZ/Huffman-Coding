@@ -2,6 +2,8 @@
 
 Huffman Coding is an algorithm for encryption of text and decryption based on Huffman Tree.
 
+![Huffman Coding , opencv](https://en.wikipedia.org/wiki/Huffman_coding#/media/File:Huffman_tree_2.svg "Huffman Coding")
+
 ## Requirements
 
 * Numpy
