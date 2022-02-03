@@ -2,7 +2,7 @@
 
 Huffman Coding is an algorithm for encryption of text and decryption based on Huffman Tree.
 
-![Huffman-Coding](https://en.wikipedia.org/wiki/Huffman_coding#/media/File:Huffman_tree_2.svg)
+![Huffman-Coding](https://s6.uupload.ir/files/huffman_tree_f6r1.png)
 
 ## Requirements
 
